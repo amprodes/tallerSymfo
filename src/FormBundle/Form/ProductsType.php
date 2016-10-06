@@ -21,15 +21,15 @@ class ProductsType extends AbstractType
     {
         $builder
             ->add('code', NumberType::class, array(
-                'invalid_message' => 'You entered an invalid value, it should be only numbers no weirds stuff like you usually do my friend!'
+                'invalid_message' => 'You entered an invalid value, it should be only numbers, no specials characters'
             ))
             ->add('name', TextType::class, array(
-                'invalid_message' => 'We already know this guy!'
+                'invalid_message' => 'This product is already in our database'
             ))
             ->add('description')
             ->add('brand')
             ->add('category')
-            ->add('price', MoneyType::class,array('currency' => 'USD','invalid_message' => 'You should give us money babe!'));
+            ->add('price', MoneyType::class,array('currency' => 'USD','invalid_message' => 'You entered an invalid value'));
     }
 
     /**
