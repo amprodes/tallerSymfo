@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11edf4d2-4f60-45ec-bbc3-4d0f1871cff5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/cache/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/logs/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/sessions/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/1x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/2_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/2_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/4 (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/4x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/5x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/6x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/7x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/8x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/9x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fishu-fonts/BerlinSansFB-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fishu-fonts/BerlinSansFB-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fishu-fonts/BerlinSansFB-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fishu-fonts/BerlinSansFB-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fishu-fonts/BerlinSansFB-Reg.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fishu-fonts/BerlinSansFB-Reg.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fishu-fonts/BerlinSansFB-Reg.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fishu-fonts/BerlinSansFB-Reg.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fishu-fonts/BerlinSansFBDemi-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fishu-fonts/BerlinSansFBDemi-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fishu-fonts/BerlinSansFBDemi-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fishu-fonts/BerlinSansFBDemi-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/montserrat/Montserrat-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/pages/fonts/Montserrat/Montserrat-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/montserrat/Montserrat-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/montserrat/Montserrat-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/montserrat/Montserrat-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/pages/fonts/Montserrat/Montserrat-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/montserrat/Montserrat-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/montserrat/Montserrat-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/Simple-Line-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/Simple-Line-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/Simple-Line-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/a2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/form-wizard/amex.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/antin-sig_180x68.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/arrow-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/arrow-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/avatar2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/avatar_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/avatar_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/avatar_small2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/b2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/profiles/ba2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/brillo_derecho.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/brillo_izquierdo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/buttons_hero.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/colors_hero.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-datatable/extensions/TableTools/swf/copy_csv_xls_pdf.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/social/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/social/cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/social/cover2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/social/cover3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/social/cover_.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/mapplic/css/images/cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/dashboard-map-dotted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/maps/dashboard-map-dotted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/determinate_bar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/determinate_circle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/invoice/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/invoice/doc2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/firma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/form_hero.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/full_header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/full_header_con.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/fullscreen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/mapplic/css/images/fullscreen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-dynatree/skin/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/icons_hero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/invoice/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/invoice/image2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/indeterminate_bar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/indeterminate_circle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/item-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/linear_gradient.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/mapplic/css/images/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/logo_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/logo_2x_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/logo_transparente_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/logo_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/logo_white_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/form-wizard/mastercard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/menu_divided.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/menu_divided_con.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/modal_hero.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/nest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/new-york-city-buildings-sunrise-morning-hd-wallpaper.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/new-york-city-buildings-sunrise-morning-hd-wallpaper.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/icons/noti-cross-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/icons/noti-cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/notifications_hero.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/openhand.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/mapplic/css/images/openhand.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/opening.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/dashboard/pages_hero.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/pages_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/pages_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/paralax_cover.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/paralax_full.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/paralax_title.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/invoice/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/invoice/pdf2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/social/person-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/social/person-cropped.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/pin-blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/pin-green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/pin-orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/pin-purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/mapplic/css/images/pin-red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/social/quote.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/invoice/signature.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/invoice/signature2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/slider_hero.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-datatable/media/images/sort_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-datatable/media/images/sort_both.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-datatable/media/images/sort_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/dropzone/images/spritemap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/invoice/squarespace.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/invoice/squarespace2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/tables.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/tables.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/target.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/mapplic/css/images/target.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/theme_abstract.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/theme_corporate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/theme_default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/theme_retro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/theme_unlax.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/theme_vibes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/thumb-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/thumb-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/gallery/thumb-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/tooltip-triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/mapplic/css/images/tooltip-triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/icons/top_tray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/icons/top_tray_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/typography_hero.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/maps/us-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/viewer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/form-wizard/visa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-dynatree/skin/vline.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/3_9.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/4.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/6_6.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/9_3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/AppBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppCache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fishu-fonts/BerlinSansFB-Bold.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fishu-fonts/BerlinSansFB-Reg.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fishu-fonts/BerlinSansFBDemi-Bold.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Controller/DefaultController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/AppBundle/Controller/DefaultControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/FormBundle/Controller/DefaultControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/FormBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-metrojs/MetroJs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-metrojs/MetroJs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Entity/Products.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/config/doctrine/metadata/orm/Products.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Controller/ProductsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Tests/Controller/ProductsControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Form/ProductsType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/Simple-Line-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/SymfonyRequirements.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/add_more.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/add_more.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app_dev.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-autonumeric/autoNumeric.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/nvd3/src/models/axis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/blank.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/bootstrap-tag/bootstrap-tagsinput.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/bootstrap-tag/bootstrap-tagsinput.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/bootstrap-timepicker/bootstrap-timepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/bootstrap-timepicker/bootstrap-timepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/boostrapv3/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/boostrapv3/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/bootstrap3-wysihtml5/bootstrap3-wysihtml5.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/bootstrap3-wysihtml5/bootstrap3-wysihtml5.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/notifications/bounce_progress.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/calendar_app.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/calendar_app.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/charts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/notifications/circle_progress.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/classie/classie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/codrops-stepsform/css/component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_prod.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_test.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/nvd3/lib/d3.v3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-datatable/extensions/FixedColumns/css/dataTables.fixedColumns.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-datatable/extensions/TableTools/js/dataTables.tableTools.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/datatables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/datatables-responsive/css/datatables.responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/datatables-responsive/js/datatables.responsive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/bootstrap-datepicker/css/datepicker3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/bootstrap-daterangepicker/daterangepicker-bs3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/bootstrap-daterangepicker/daterangepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/codrops-dialogFx/dialog-sandra.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/codrops-dialogFx/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/codrops-dialogFx/dialogFx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/dropzone/css/dropzone.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/dropzone/dropzone.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/views/products/edit.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/pages/css/editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/email_app.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/email_app.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/form_elements.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/form_layouts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/form_wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/google_map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/mapplic/js/hammer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/hammer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/icon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/imagesloaded/imagesloaded.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/views/Default/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/views/products/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/nvd3/src/interactiveLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/ion-slider/css/ion.rangeSlider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/ion-slider/js/ion.rangeSlider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/ion-slider/css/ion.rangeSlider.skinFlat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-isotope/isotope.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery/jquery-1.11.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-datatable/extensions/Bootstrap/jquery-datatable-bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery/jquery-easy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-ui/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-actual/jquery.actual.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-bez/jquery.bez.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/boostrap-form-wizard/js/jquery.bootstrap.wizard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-datatable/media/css/jquery.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-datatable/media/js/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-dynatree/jquery.dynatree.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-inputmask/jquery.inputmask.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-ios-list/jquery.ioslist.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-nouislider/jquery.liblink.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-menuclipper/jquery.menuclipper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-menuclipper/jquery.menuclipper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/mapplic/js/jquery.mousewheel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-nestable/jquery.nestable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-nestable/jquery.nestable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-nouislider/jquery.nouislider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-nouislider/jquery.nouislider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/jquery.overflowing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-scrollbar/jquery.scrollbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-scrollbar/jquery.scrollbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery.sieve.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-sparkline/jquery.sparkline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-ui-touch/jquery.ui.touch-punch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-unveil/jquery.unveil.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-validation/js/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/nvd3/src/models/line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/nvd3/src/models/lineWithFocusChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/notifications/loading_bar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/datatables-responsive/js/lodash.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/mapplic/css/mapplic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/mapplic/js/mapplic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/maps/marker-alt-danger.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/maps/marker-alt-primary.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/maps/marker-danger.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/maps/marker-master.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/maps/marker-success.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/moment/moment-with-locales.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/moment/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/nestables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/views/products/new.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/notifications.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/nvd3/nv.d3.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/nvd3/nv.d3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/owl-carousel/assets/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/owl-carousel/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/pace/pace-theme-flash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/pace/pace.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/pages/css/pages-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/pages/css/pages.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/pages/js/pages.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/parameters.yml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/portlets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/config/routing/products.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/progress-bar-master.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/progress-circle-lg-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/progress-circle-master.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/progress-circle-success.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/progress.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/maps/pulse-alt-master.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/maps/pulse-complete.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/maps/pulse-master.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/rickshaw/rickshaw.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/rickshaw/rickshaw.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/config/routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/security.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/bootstrap-select2/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/bootstrap-select2/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/config/services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/views/products/show.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/simple-line-icons/simple-line-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/notifications/simple_alert.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/skycons/skycons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/social_app.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/social_app.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/codrops-stepsform/js/stepsForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/summernote/css/summernote.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/summernote/js/summernote.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/switchery/css/switchery.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/switchery/js/switchery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/symfony_requirements" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/tables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/tester.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/theme_switcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/tick.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/timeline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/nvd3/src/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/tree_view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/img/demo/typo_font_preview.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/jquery-dynatree/skin/ui.dynatree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/plugins/nvd3/src/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/vector_map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="tester.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="tester" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="routing.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="products.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/config/routing/products.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.37037">
+              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+              <folding>
+                <marker date="1475784584403" expanded="true" signature="603:729" placeholder="products_list:" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="datatables.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/datatables.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Products.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FormBundle/Entity/Products.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="5.8846154">
+              <caret line="10" column="125" selection-start-line="10" selection-start-column="109" selection-end-line="10" selection-end-column="125" />
+              <folding>
+                <element signature="e#37#69#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductsType.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FormBundle/Form/ProductsType.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.961538">
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+              <folding>
+                <element signature="e#35#75#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductsController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FormBundle/Controller/ProductsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.961538">
+              <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+              <folding>
+                <marker date="1475783819244" expanded="true" signature="491:526" placeholder="SELECT a FRO..FormBundle..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/views/products/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23076923">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <folding>
+                <element signature="e#945#966#0#HTML" expanded="true" />
+                <element signature="e#1141#1162#0#HTML" expanded="true" />
+                <element signature="e#1341#1362#0#HTML" expanded="true" />
+                <element signature="e#1542#1563#0#HTML" expanded="true" />
+                <element signature="e#1748#1769#0#HTML" expanded="true" />
+                <element signature="e#1957#1978#0#HTML" expanded="true" />
+                <element signature="e#2078#2099#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-28.925926">
+              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+              <folding>
+                <marker date="1475782434270" expanded="true" signature="2058:2235" placeholder="swiftmailer:" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Configuration.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/knplabs/knp-paginator-bundle/DependencyInjection/Configuration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.346153">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sliding.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/knplabs/knp-paginator-bundle/Resources/views/Pagination/sliding.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.9230769">
+              <caret line="6" column="164" selection-start-line="6" selection-start-column="164" selection-end-line="6" selection-end-column="164" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/amprodes/html_interface/html_interface/register.html" />
+        <option value="$PROJECT_DIR$/src/FormBundle/Resources/public/pages/css/pages.css" />
+        <option value="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/form_elements.js" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/src/FormBundle/Entity/Products.php" />
+        <option value="$PROJECT_DIR$/src/FormBundle/Resources/views/products/new.html.twig" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/src/FormBundle/Resources/views/products/edit.html.twig" />
+        <option value="$PROJECT_DIR$/src/FormBundle/Resources/views/products/show.html.twig" />
+        <option value="$PROJECT_DIR$/src/FormBundle/Form/ProductsType.php" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/vendor/knplabs/knp-paginator-bundle/Resources/views/Pagination/sliding.html.twig" />
+        <option value="$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/datatables.js" />
+        <option value="$PROJECT_DIR$/src/FormBundle/Controller/ProductsController.php" />
+        <option value="$PROJECT_DIR$/src/FormBundle/Resources/views/products/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/FormBundle/Resources/config/routing/products.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FormBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FormBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FormBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FormBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FormBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FormBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="sliding.html.twig&#9;FILE&#9;file://C:/xampp/htdocs/tester/vendor/knplabs/knp-paginator-bundle/Resources/views/Pagination/sliding.html.twig&#10;knp&#9;FILE&#9;file://C:/xampp/htdocs/tester/vendor/knplabs/knp-paginator-bundle/KnpPaginatorBundle.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\tester\src\FormBundle\Resources\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11edf4d2-4f60-45ec-bbc3-4d0f1871cff5" name="Default" comment="" />
+      <created>1475675211945</created>
+      <option name="number" value="Default" />
+      <updated>1475675211945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Heroku" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/config/routing/products.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Entity/Products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="46" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Form/ProductsType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Controller/ProductsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="89" column="22" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/views/products/edit.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="106" selection-start-line="13" selection-start-column="106" selection-end-line="13" selection-end-column="106" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/views/products/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/amprodes/html_interface/html_interface/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.153846">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="64" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/form_elements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/public/pages/css/pages.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.862069">
+          <caret line="6034" column="2" selection-start-line="6034" selection-start-column="2" selection-end-line="6034" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/Type/TextType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15384616">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Controller/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9004525">
+          <caret line="208" column="23" selection-start-line="208" selection-start-column="23" selection-end-line="208" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Pagination/Paginator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34276018">
+          <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.730769">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding>
+            <element signature="e#7#47#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35520363">
+          <caret line="1220" column="97" selection-start-line="1220" selection-start-column="94" selection-end-line="1220" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/views/products/edit.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/views/products/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.346153">
+          <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="119" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/views/products/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3269231">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/knplabs/knp-paginator-bundle/KnpPaginatorBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15384616">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/knplabs/knp-paginator-bundle/Templating/PaginationHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1923077">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/knplabs/knp-paginator-bundle/Resources/config/paginator.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/knplabs/knp-paginator-bundle/Resources/config/templating_php.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/knplabs/knp-paginator-bundle/DependencyInjection/Configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.346153">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.925926">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <marker date="1475782434270" expanded="true" signature="2058:2235" placeholder="swiftmailer:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/knplabs/knp-paginator-bundle/Resources/views/Pagination/sliding.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9230769">
+          <caret line="6" column="164" selection-start-line="6" selection-start-column="164" selection-end-line="6" selection-end-column="164" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/public/assets/js/datatables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Controller/ProductsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.961538">
+          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+          <folding>
+            <marker date="1475783819244" expanded="true" signature="491:526" placeholder="SELECT a FRO..FormBundle..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Entity/Products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.8846154">
+          <caret line="10" column="125" selection-start-line="10" selection-start-column="109" selection-end-line="10" selection-end-column="125" />
+          <folding>
+            <element signature="e#37#69#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Form/ProductsType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.961538">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="e#35#75#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/config/routing/products.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.37037">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <folding>
+            <marker date="1475784584403" expanded="true" signature="603:729" placeholder="products_list:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormBundle/Resources/views/products/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23076923">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding>
+            <element signature="e#945#966#0#HTML" expanded="true" />
+            <element signature="e#1141#1162#0#HTML" expanded="true" />
+            <element signature="e#1341#1362#0#HTML" expanded="true" />
+            <element signature="e#1542#1563#0#HTML" expanded="true" />
+            <element signature="e#1748#1769#0#HTML" expanded="true" />
+            <element signature="e#1957#1978#0#HTML" expanded="true" />
+            <element signature="e#2078#2099#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

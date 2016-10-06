@@ -1,0 +1,75 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    {% for flash_message in app.session.flashBag.get('success') %}
+        <div class="alert alert-success" role="alert">
+            <p class="pull-left">{{ flash_message }}</p>
+            <button class="close" data-dismiss="alert"></button>
+            <div class="clearfix"></div>
+        </div>
+    {% endfor %}
+    <div class="panel panel-transparent">
+        <div class="panel-body">
+            <div class="col-md-8 sm-no-padding">
+                <div class="panel panel-transparent">
+                    <div class="panel-body no-padding">
+                        <div id="portlet-advance" class="panel panel-default">
+                            <div class="panel-body">
+                                <h3>
+                                    <span class="semi-bold">Product: </span> {{ product.name }}</h3>
+                                <p>{{ product.description }}</p>
+                                <br>
+                                <div>
+
+                                    <div class="inline">
+                                        <p class="small hint-text m-t-5">
+                                            <strong>Brand:</strong> {{ product.brand }}
+                                            <br>
+                                            <strong>Category:</strong> {{ product.category }}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 no-padding">
+                <div class="p-r-30">
+                    <h3>Product view</h3>
+                    <br>
+                    <p>Portlets are pluggable UI components that are managed and displayed in a web portal. Portlets
+                        in Pages are created by reusing the <a href="http://getbootstrap.com/components/#panels">panels</a>
+                        introduced in Bootstrap to enable effortless customization.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="row">
+    <div class="container-sm-height">
+        <div class="row row-sm-height b-a b-grey">
+            <div class="col-sm-2 col-sm-height col-middle p-l-25 sm-p-t-15 sm-p-l-15 clearfix sm-p-b-15">
+                <h5 class="font-montserrat all-caps small no-margin hint-text bold">Code</h5>
+                <h3 class="no-margin">{{ product.code }}</h3>
+            </div>
+            <div class="col-sm-5 col-sm-height col-middle clearfix sm-p-b-15">
+
+            </div>
+            <div class="col-sm-5 text-right bg-menu col-sm-height padding-15">
+                <h5 class="font-montserrat all-caps small no-margin hint-text text-white bold">Precio</h5>
+                <h1 class="no-margin text-white">$ {{ product.price|number_format(2, '.', ',') }}</h1>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="row">
+        <div class="pull-left"><a href="{{ path('products_index') }}" class="btn btn-default btn-cons m-t-10">Back to the list</a></div>
+        <div class="pull-right"><a href="{{ path('products_edit', { 'id': product.id }) }}" class="btn btn-success btn-cons m-t-10">Edit</a></div>
+        <div class="pull-right">
+            {{ form_start(delete_form) }}
+            <input type="submit" value="Delete" class="btn btn-warning btn-cons m-t-10">
+            {{ form_end(delete_form) }}
+        </div>
+    </div>
+
+{% endblock %}

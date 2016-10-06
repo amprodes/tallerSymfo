@@ -1,0 +1,71 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <div class="panel panel-transparent">
+        <div class="panel-heading">
+            <div class="panel-title">Products list</div>
+            <div class="pull-right">
+                <div class="col-xs-12">
+                    <input type="text" id="search-table" class="form-control pull-right" placeholder="Search">
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="panel-body">
+            <div id="tableWithSearch_wrapper" class="dataTables_wrapper form-inline no-footer">
+
+                    <table class="table table-hover demo-table-search dataTable no-footer" id="tableWithSearch" role="grid" aria-describedby="tableWithSearch_info">
+                        <thead>
+                        <tr role="row">
+                            {% set direction = pagination.getDirection() %}
+                            <th style="width: 120px;">{{ knp_pagination_sortable(pagination, 'Id', 'a.id') }}</th>
+                            <th {% if pagination.isSorted('a.Code') %} class="sorted {{ direction }}"{% endif %} style="width: 314px;">{{ knp_pagination_sortable(pagination, 'Code', 'a.code') }}</th>
+                            <th {% if pagination.isSorted('a.Name') %} class="sorted {{ direction }}"{% endif %} style="width: 346px;">{{ knp_pagination_sortable(pagination, 'Name', 'a.name') }}</th>
+                            <th {% if pagination.isSorted('a.Brand') %} class="sorted {{ direction }}"{% endif %} style="width: 265px;">{{ knp_pagination_sortable(pagination, 'Brand', 'a.brand') }}</th>
+                            <th {% if pagination.isSorted('a.Category') %} class="sorted {{ direction }}"{% endif %} style="width: 265px;">{{ knp_pagination_sortable(pagination, 'Category', 'a.category') }}</th>
+                            <th {% if pagination.isSorted('a.Price') %} class="sorted {{ direction }}"{% endif %} style="width: 265px;">{{ knp_pagination_sortable(pagination, 'Price', 'a.price') }}</th>
+                            <th style="width: 265px;">Actions</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        {% for product in products %}
+                            <tr>
+                                <td class="v-align-middle">{{ product.id }}</td>
+                                <td class="v-align-middle"><a href="{{ path('products_show', { 'id': product.id }) }}">{{ product.code }}</a></td>
+                                <td class="v-align-middle">{{ product.name }}</td>
+                                <td class="v-align-middle">{{ product.brand }}</td>
+                                <td class="v-align-middle">{{ product.category }}</td>
+                                <td class="v-align-middle">$ {{ product.price|number_format(2, '.', ',') }}</td>
+                                <td class="v-align-middle">
+
+                                            <a class="btn btn-success btn-small" href="{{ path('products_show', { 'id': product.id }) }}" title="show"><i class="fa fa-eye"></i></a>
+                                            <a class="btn btn-default btn-small" href="{{ path('products_edit', { 'id': product.id }) }}" title="edit"><i class="fa fa-edit"></i></a>
+
+                                </td>
+                            </tr>
+                        {% endfor %}</tbody>
+                    </table>
+                 <div class="row">
+                    <div>
+                        <div class="dataTables_paginate paging_simple_numbers pull-right" id="tableWithSearch_paginate">{{ knp_pagination_render(pagination) }}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            <div class="pull-right"><a class="btn btn-success btn-cons m-t-10" href="{{ path('products_new') }}">Create a new entry</a></div>
+
+{% endblock %}
+
+{% block javascripts %}
+    {{ parent() }}
+<script src="{{ asset('bundles/form/assets/plugins/bootstrap-select2/select2.min.js') }}"></script>
+<script src="{{ asset('bundles/form/assets/plugins/jquery-datatable/media/js/jquery.dataTables.min.js') }}"></script>
+<script src="{{ asset('bundles/form/assets/plugins/jquery-datatable/extensions/TableTools/js/dataTables.tableTools.min.js') }}"></script>
+<script src="{{ asset('bundles/form/assets/plugins/jquery-datatable/media/js/dataTables.bootstrap.js') }}"></script>
+<script src="{{ asset('bundles/form/assets/plugins/jquery-datatable/extensions/Bootstrap/jquery-datatable-bootstrap.js') }}"></script>
+<script src="{{ asset('bundles/form/assets/plugins/datatables-responsive/js/lodash.min.js') }}"></script>
+<script src="{{ asset('bundles/form/assets/js/datatables.js') }}"></script>
+
+{% endblock %}

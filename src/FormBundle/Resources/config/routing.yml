@@ -1,0 +1,7 @@
+form_products:
+    resource: "@FormBundle/Resources/config/routing/products.yml"
+    prefix:   /products
+
+form_homepage:
+    path:     /
+    defaults: { _controller: FormBundle:Default:index }

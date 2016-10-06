@@ -1,0 +1,82 @@
+{% extends 'base.html.twig' %}
+{% block stylesheets %}
+    {{ parent() }}
+    <link rel="stylesheet" href="{{ asset('bundles/form/assets/plugins/datatables-responsive/css/datatables.responsive.css') }}">
+    <link rel="stylesheet" href="{{ asset('bundles/form/assets/plugins/jquery-datatable/extensions/FixedColumns/css/dataTables.fixedColumns.min.css') }}">
+{% endblock %}
+{% block body %}
+
+    <div class="row">
+        <div class="col-md-6">
+            <h1>Products creation</h1>
+
+            {{ form_start(form, {'attr': {'class': 'p-t-15','role':'form','id':'form-register'}}) }}
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group form-group-default {% if not form.code.vars.valid %}has-error{% endif %}">
+                        {{ form_label(form.code) }}
+                        {{ form_widget(form.code, {'attr': {'class': 'form-control','placeholder':'345346456'}}) }}
+                    </div>
+                    {{ form_errors(form.code, {'attr': {'class': '','id':'fname-error','for':'fname'}}) }}
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group form-group-default {% if not form.name.vars.valid %}has-error{% endif %}">
+                        {{ form_label(form.name) }}
+                        {{ form_widget(form.name, {'attr': {'class': 'form-control','placeholder':'Jhon Doe'}}) }}
+                    </div>
+                    {{ form_errors(form.name, {'attr': {'class': '','id':'fname-error','for':'fname'}}) }}
+                </div>
+                <div class="clearfix"></div>
+                <div class="col-md-12">
+                    <div class="form-group form-group-default {% if not form.description.vars.valid %}has-error{% endif %}">
+                        {{ form_label(form.description) }}
+                        {{ form_widget(form.description, {'attr': {'class': 'form-control','placeholder':'Your description goes here!'}}) }}
+                    </div>
+                    {{ form_errors(form.description, {'attr': {'class': '','id':'fname-error','for':'fname'}}) }}
+                </div>
+                <div class="clearfix"></div>
+                <div class="col-md-6">
+                    <div class="form-group form-group-default {% if not form.brand.vars.valid %}has-error{% endif %}">
+                        {{ form_label(form.brand) }}
+                        {{ form_widget(form.brand, {'attr': {'class': 'form-control','placeholder':'Montain Dew, PS4, XBOX ONE'}}) }}
+                    </div>
+                    {{ form_errors(form.brand, {'attr': {'class': '','id':'fname-error','for':'fname'}}) }}
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group form-group-default {% if not form.category.vars.valid %}has-error{% endif %}">
+                        {{ form_label(form.category) }}
+                        {{ form_widget(form.category, {'attr': {'class': 'form-control','placeholder':'Some Categories'}}) }}
+                    </div>
+                    {{ form_errors(form.category, {'attr': {'class': '','id':'fname-error','for':'fname'}}) }}
+                </div>
+                <div class="clearfix"></div>
+                <div class="col-md-12">
+                    <div class="form-group form-group-default {% if not form.price.vars.valid %}has-error{% endif %}">
+                        {{ form_label(form.price) }}
+                        {{ form_widget(form.price, {'attr': {'class': 'autonumeric form-control','placeholder':'150.000','data-a-sign':'$ '}}) }}
+                    </div>
+                    {{ form_errors(form.price, {'attr': {'class': 'error','id':'fname-error','for':'fname'}}) }}
+                </div>
+            </div>
+            <div class="pull-right"><input type="submit" value="Create" class="btn btn-primary btn-cons m-t-10"/></div>
+            {{ form_end(form) }}
+
+        </div>
+        <div class="col-md-6 p-t-50">
+            <h3 class="p-t-50">Products makes it easy to enjoy what matters the most in your life</h3>
+            <p>
+                <small>
+                    This is the edit form from symfony, awesome!
+                </small>
+            </p>
+            <div class="pull-right"><a href="{{ path('products_index') }}" class="btn btn-success btn-cons m-t-10">Back to the list</a></div>
+        </div>
+    </div>
+{% endblock %}
+        {% block javascripts %}
+            {{ parent() }}
+            <script src="{{ asset('bundles/form/assets/plugins/bootstrap-tag/bootstrap-tagsinput.min.js') }}"></script>
+            <script src="{{ asset('bundles/form/assets/plugins/jquery-inputmask/jquery.inputmask.min.js') }}"></script>
+            {#<script src="{{ asset('bundles/form/assets/js/form_elements.js') }}"></script>#}
+            <script src="{{ asset('bundles/form/assets/plugins/jquery-autonumeric/autoNumeric.js') }}"></script>
+        {% endblock %}
