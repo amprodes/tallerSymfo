@@ -17,18 +17,17 @@
                     <table class="table table-hover demo-table-search dataTable no-footer" id="tableWithSearch" role="grid" aria-describedby="tableWithSearch_info">
                         <thead>
                         <tr role="row">
-                            {% set direction = pagination.getDirection() %}
                             <th style="width: 120px;">{{ knp_pagination_sortable(pagination, 'Id', 'a.id') }}</th>
-                            <th {% if pagination.isSorted('a.Code') %} class="sorted {{ direction }}"{% endif %} style="width: 314px;">{{ knp_pagination_sortable(pagination, 'Code', 'a.code') }}</th>
-                            <th {% if pagination.isSorted('a.Name') %} class="sorted {{ direction }}"{% endif %} style="width: 346px;">{{ knp_pagination_sortable(pagination, 'Name', 'a.name') }}</th>
-                            <th {% if pagination.isSorted('a.Brand') %} class="sorted {{ direction }}"{% endif %} style="width: 265px;">{{ knp_pagination_sortable(pagination, 'Brand', 'a.brand') }}</th>
-                            <th {% if pagination.isSorted('a.Category') %} class="sorted {{ direction }}"{% endif %} style="width: 265px;">{{ knp_pagination_sortable(pagination, 'Category', 'a.category') }}</th>
-                            <th {% if pagination.isSorted('a.Price') %} class="sorted {{ direction }}"{% endif %} style="width: 265px;">{{ knp_pagination_sortable(pagination, 'Price', 'a.price') }}</th>
+                            <th style="width: 314px;">{{ knp_pagination_sortable(pagination, 'Code', 'a.code') }}</th>
+                            <th style="width: 346px;">{{ knp_pagination_sortable(pagination, 'Name', 'a.name') }}</th>
+                            <th style="width: 265px;">{{ knp_pagination_sortable(pagination, 'Brand', 'a.brand') }}</th>
+                            <th style="width: 265px;">{{ knp_pagination_sortable(pagination, 'Category', 'a.category') }}</th>
+                            <th style="width: 265px;">{{ knp_pagination_sortable(pagination, 'Price', 'a.price') }}</th>
                             <th style="width: 265px;">Actions</th>
                         </tr>
                         </thead>
                         <tbody>
-                        {% for product in products %}
+                        {% for product in pagination %}
                             <tr>
                                 <td class="v-align-middle">{{ product.id }}</td>
                                 <td class="v-align-middle"><a href="{{ path('products_show', { 'id': product.id }) }}">{{ product.code }}</a></td>

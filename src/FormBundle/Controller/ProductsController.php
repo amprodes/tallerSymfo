@@ -20,24 +20,26 @@ class ProductsController extends Controller
     /**
      * Lists all Products entities.
      */
-    public function indexAction(Request $request, $page)
+    public function indexAction(Request $request)
     {
 
-        $em    = $this->get('doctrine.orm.entity_manager');
-        $dql   = "SELECT a FROM FormBundle:Products a";
-        $query = $em->createQuery($dql)->getResult();
+        //$em    = $this->get('doctrine.orm.entity_manager');
+        //$dql   = "SELECT a FROM FormBundle:Products a";
+
+        $em = $this->getDoctrine()->getManager();
+        $query = $em->createQuery("SELECT a FROM FormBundle:Products a");
 
 
         $paginator  = $this->get('knp_paginator');
         $products = $paginator->paginate(
             $query, /* query NOT result */
-            $request->query->getInt('page', $page)/*page number*/,
+            $request->query->getInt('page', 1)/*page number*/,
             5/*limit per page*/
 
         );
         $products->setUsedRoute('products_list'); /*define the pagination route*/
         // parameters to template
-        return $this->render('FormBundle:products:index.html.twig', array('pagination' => $products, 'products' => $products));
+        return $this->render('FormBundle:products:index.html.twig', array('pagination' => $products));
     }
 
     /**
